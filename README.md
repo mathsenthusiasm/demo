@@ -3,5 +3,5 @@ int main(){
     int n;
     printf("enter any number:");
     scanf("%d",&n);
-    printf("value:%d",n);g
+    printf("value:%d",n);
 }
